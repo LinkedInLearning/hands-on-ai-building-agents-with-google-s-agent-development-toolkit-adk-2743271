@@ -1,5 +1,5 @@
-# COURSENAME
-This is the repository for the LinkedIn Learning course `course-name`. The full course is available from [LinkedIn Learning][lil-course-url].
+# Hands-On AI: Building Agents with Google's Agent Development Toolkit (ADK)
+This is the repository for the LinkedIn Learning course `Hands-On AI: Building Agents with Google's Agent Development Toolkit (ADK)`. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![course-name-alt-text][lil-thumbnail-url] 
 
